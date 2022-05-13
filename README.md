@@ -2,7 +2,7 @@
 
 #### Data Engineer passionate about data and distributed systems.
 
-- 🔭 Data at [Buffer](https://buffer.com/).
+- 🔭 Data at [Protocol Labs](https://protocol.ai/about/).
 - ✨ Believer in Open Source (tools), Open Data (Knowledge) and Open Protocols (Systems/Processes)! 
 - 🌱 Learning about decentralized systems, web3, open source, mechanism design, and much more!
 - 💬 Ask me about **Data**, **Knowledge Management** and **Remote Work**! 
