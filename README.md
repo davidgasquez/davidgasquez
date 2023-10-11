@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Data Engineer passionate about data and distributed systems.
+Data Engineer passionate about data and distributed systems.
 
 - 🔭 Data ∪ Engineering ∪ Science. Did some data stuff at [Protocol Labs](https://protocol.ai/about/) and [Buffer](https://buffer.com/).
 - ✨ Open standards through open source. Open Source (tools), Open Data (Knowledge) and Open Protocols (Systems/Processes)! 
